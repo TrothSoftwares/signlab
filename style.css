@@ -910,7 +910,7 @@ html[xmlns] .slider-wrap {display: block;}
 
 #header.transparent-header.floating-header .container {
 	width: 1220px;
-	background-color: #66C3D0;
+	background-color: #FFF;
 	padding: 0 40px;
 	border-radius: 2px;
 }
@@ -2081,7 +2081,7 @@ body.top-search-open #side-panel-trigger { opacity: 0; }
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
 
-#page-menu-wrap { background-color: #1ABC9C; }
+#page-menu-wrap { background-color: #2B7782; }
 
 #page-menu.sticky-page-menu #page-menu-wrap {
 	position: fixed;
@@ -3430,11 +3430,11 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 
 #portfolio-filter li:last-child a { border-radius: 0 4px 4px 0; }
 
-#portfolio-filter li a:hover { color: #1ABC9C; }
+#portfolio-filter li a:hover { color: #68C4D1; }
 
 #portfolio-filter li.activeFilter a {
 	color: #FFF !important;
-	background-color: #1ABC9C;
+	background-color: #68C4D1;
 	margin: -1px 0;
 	padding: 13px 18px;
 }
