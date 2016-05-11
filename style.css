@@ -54,7 +54,7 @@ dl, dt, dd, ol, ul, li {
 
 body {
 	line-height: 1.5;
-	color: #555;
+	color: #434;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -1962,7 +1962,7 @@ body.top-search-open #side-panel-trigger { opacity: 0; }
 	top: 0;
 	left: 0;
 	width: 100%;
-background:linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,0.98) 38%, rgba(19,113,112,0.94) 100%);
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,0.98) 47%, rgba(175,222,212,0.95) 100%);
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 	-webkit-backface-visibility: hidden;
 }
@@ -3379,6 +3379,8 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 	position: relative;
 	overflow: hidden;
 	background-color: #FFF;
+	background: url('images/home/s2.jpg');
+background-size: cover;
 }
 
 #content p { line-height: 1.8; }
