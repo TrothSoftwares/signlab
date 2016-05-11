@@ -1962,7 +1962,7 @@ body.top-search-open #side-panel-trigger { opacity: 0; }
 	top: 0;
 	left: 0;
 	width: 100%;
-	background-color: #FFF;
+background:linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,0.98) 38%, rgba(19,113,112,0.94) 100%);
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 	-webkit-backface-visibility: hidden;
 }
@@ -11625,7 +11625,7 @@ button.toast-close-button {
 .footer-widgets-wrap .col_five_sixth { margin-bottom: 0; }
 
 #copyrights {
-	padding: 40px 0;
+	padding: 40px 0 10px;
 	background-color: #DDD;
 	font-size: 14px;
 	line-height: 1.8;
@@ -13190,4 +13190,3 @@ body:not(.no-transition) #wrapper,
 	margin:0!important;
 	padding:0!important
 }
-
