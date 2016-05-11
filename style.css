@@ -3379,7 +3379,6 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 	position: relative;
 	overflow: hidden;
 	background-color: #FFF;
-	background: url('images/home/s2.jpg');
 background-size: cover;
 }
 
@@ -3436,7 +3435,7 @@ background-size: cover;
 
 #portfolio-filter li.activeFilter a {
 	color: #FFF !important;
-	background-color: #68C4D1;
+	background-color: #2B7782;
 	margin: -1px 0;
 	padding: 13px 18px;
 }
@@ -6653,7 +6652,7 @@ body:not(.device-xs):not(.device-xxs) .countdown.countdown-large.coming-soon .co
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
-	background-color: #1ABC9C;
+	background-color: #2B7782;
 	color: #FFF;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -6677,7 +6676,7 @@ body:not(.device-touch) .button {
 }
 
 .button:hover {
-	background-color: #444;
+	background-color: #041E1D;
 	color: #FFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
@@ -7009,9 +7008,9 @@ body:not(.device-touch) .button.button-full strong {
 .button-3d.button-red:hover,
 .button-reveal.button-red:hover { background-color: #C02942 !important; }
 
-.button-teal { background-color: #53777A; }
+.button-teal { background-color: #2B7782; }
 .button-3d.button-teal:hover,
-.button-reveal.button-teal:hover { background-color: #53777A !important; }
+.button-reveal.button-teal:hover { background-color: #062E2D !important; }
 
 .button-yellow { background-color: #ECD078; }
 .button-3d.button-yellow:hover,
@@ -7345,7 +7344,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box .fbox-icon i,
 .feature-box .fbox-icon img {
 	border-radius: 50%;
-	background-color: #1ABC9C;
+	background-color: #2B7782;
 }
 
 .feature-box .fbox-icon i {
