@@ -13191,3 +13191,13 @@ body:not(.no-transition) #wrapper,
 	margin:0!important;
 	padding:0!important
 }
+
+
+/* ----------------------------------------------------------------
+	CUSTOM CSS MKR
+-----------------------------------------------------------------*/
+
+@font-face{
+	font-family:"Handel Gothic";
+	src:url("css/fonts/HANDGOTN.ttf");
+}
